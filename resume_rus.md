@@ -2,7 +2,6 @@
 title: СV Вадим Калинин
 layout: home
 ---
-[Вернуться в начало](index.md)
 
 *Старший Full Stack инженер | Архитектор программного обеспечения*
 
@@ -10,9 +9,9 @@ layout: home
 
 Email: [vadimakalinin@gmail.com](mailto:vadimakalinin@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/vadim-kalinin-780a2913b/
+LinkedIn: [linkedin.com/in/vadim-kalinin-780a2913b](https://www.linkedin.com/in/vadim-kalinin-780a2913b/)
 
-GitHub: https://github.com/KrasnayaRibka
+GitHub: [github.com/KrasnayaRibka](https://github.com/KrasnayaRibka)
 
 ---
 

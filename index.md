@@ -94,9 +94,9 @@ layout: home
 
 **Контакты:**
 
-[GitHub:] (https://github.com/KrasnayaRibka)
+GitHub: [github.com/KrasnayaRibka](https://github.com/KrasnayaRibka)
 
-[LinkedIn:] (https://www.linkedin.com/in/vadim-kalinin-780a2913b/)
+LinkedIn: [linkedin.com/in/vadim-kalinin-780a2913b](https://www.linkedin.com/in/vadim-kalinin-780a2913b/)
 
 Email: [vadimakalinin@gmail.com](mailto:vadimakalinin@gmail.com)
 
