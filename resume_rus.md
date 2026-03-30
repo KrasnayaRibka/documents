@@ -9,9 +9,9 @@ layout: home
 
 Email: [vadimakalinin@gmail.com](mailto:vadimakalinin@gmail.com)
 
-LinkedIn: [linkedin.com/in/vadim-kalinin-780a2913b](https://www.linkedin.com/in/vadim-kalinin-780a2913b/)
+LinkedIn: <a href="https://www.linkedin.com/in/vadim-kalinin-780a2913b/">linkedin.com/in/vadim-kalinin-780a2913b</a>
 
-GitHub: [github.com/KrasnayaRibka](https://github.com/KrasnayaRibka)
+GitHub: <a href="https://github.com/KrasnayaRibka">github.com/KrasnayaRibka</a>
 
 ---
 
