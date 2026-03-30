@@ -101,6 +101,7 @@ layout: home
 
 [**Моё резюме на русском**](resume_rus.md)
 
+
 [**My english CV**](resume_eng.md)
 
 
