@@ -3,7 +3,7 @@ title: Предложение сотрудничества
 layout: home
 ---
 
-Добрый день!
+# Добрый день!
 
 *Я (Вадим Калинин) неожиданно потерял своего основного клиента и сейчас активно ищу новый проект или позицию. Буду благодарен за любые рекомендации, контакты или возможность поработать вместе.*
 
@@ -89,15 +89,14 @@ layout: home
 
 Также буду благодарен, если вы порекомендуете меня тем, кому это может быть актуально.
 
-**Моё резюме:**
+[**Моё резюме:**](resume_rus.md)
 
-https://drive.google.com/file/d/1H1yMRaEmv6piJYpO6tREVfTXYoBXWhA8/view?usp=sharing
 
 **Контакты:**
 
-GitHub: https://github.com/KrasnayaRibka
+[GitHub:] (https://github.com/KrasnayaRibka)
 
-LinkedIn: https://www.linkedin.com/in/vadim-kalinin-780a2913b/
+[LinkedIn:] (https://www.linkedin.com/in/vadim-kalinin-780a2913b/)
 
 Email: [vadimakalinin@gmail.com](mailto:vadimakalinin@gmail.com)
 
